@@ -4,6 +4,7 @@
     "views": "int",
     "published": "boolean",
     "createdAt": "date",
+    "picture":"jpg",
     "comments": "Comment[]"
   },
   "Comment": {
