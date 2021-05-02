@@ -12,9 +12,7 @@
     "lat": "int",
     "long": "int",
     
-    "subjects": "Subject[]",
-    "reviews": "Review[]",
-  },
-  "Subject": "string",
-  "Review": "string",
+    "subjects": "[]",
+    "reviews": "[]",
+  }
 }
