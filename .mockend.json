@@ -13,8 +13,8 @@
     "long": "int",
     
     "subjects": "Subject[]",
-    "reviews": "Review[]"
+    "reviews": "Review[]",
   },
   "Subject": "string",
-  "Review": "string"
+  "Review": "string",
 }
