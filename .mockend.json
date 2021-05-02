@@ -4,13 +4,13 @@
     "key": "string",
     "age": "int",
     "fee": "int",
-    "distance": "float",
+    "distance": "int",
     "profession": "string",
-    "experience": "float",
-    "rating": "float",
+    "experience": "int",
+    "rating": "int",
     "ratingsCount": "int",
-    "lat": "float",
-    "long": "float",
+    "lat": "int",
+    "long": "int",
     
     "subjects": "string[]",
     "reviews": "string[]"
