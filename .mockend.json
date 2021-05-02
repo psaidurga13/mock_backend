@@ -1,14 +1,20 @@
 {
-  "Post": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date",
-    "picture":"jpg",
-    "comments": "Comment[]"
+  "Tutor": {
+    "name": "string",
+    "key": "string",
+    "age": "int",
+    "fee": "int",
+    "distance": "int",
+    "profession": "string",
+    "experience": "int",
+    "rating": "int",
+    "ratingsCount": "int",
+    "lat": "int",
+    "long": "int",
+    
+    "subjects": "Subject[]",
+    "reviews": "Review[]"
   },
-  "Comment": {
-    "body": "string",
-    "post": "Post"
-  }
+  "Subject": "string",
+  "Review": "string"
 }
