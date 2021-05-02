@@ -12,7 +12,7 @@
     "lat": "int",
     "long": "int",
     
-    "subjects": "[]",
-    "reviews": "[]"
+    "subjects": "[string]",
+    "reviews": "[string]"
   }
 }
