@@ -13,6 +13,6 @@
     "long": "int",
     
     "subjects": "[]",
-    "reviews": "[]",
+    "reviews": "[]"
   }
 }
